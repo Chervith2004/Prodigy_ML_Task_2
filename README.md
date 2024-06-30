@@ -1,6 +1,6 @@
 # Prodigy_ML_Task_2
 
-Linkedin Post Link:
+Linkedin Post Link:https://www.linkedin.com/posts/gottipati-2004-chervith_machinelearning-prodigyinfotech-activity-7213141165422858240-RLHW?utm_source=share&utm_medium=member_desktop
 
 
 Mall Customer Segmentation
